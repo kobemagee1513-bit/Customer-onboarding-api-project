@@ -60,7 +60,16 @@ Successfully simulated onboarding a new customer using API workflows, similar to
 ---
 
 ## 📸 Screenshots
-(Add Postman screenshots here)
+
+### POST Request
+![POST](Post.png)
+
+### GET Request
+![GET](Get.png)
+
+### PUT Request
+![PUT](PUT.png)
+
 
 ---
 
