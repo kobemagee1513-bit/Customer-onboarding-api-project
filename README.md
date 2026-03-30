@@ -59,16 +59,17 @@ Successfully simulated onboarding a new customer using API workflows, similar to
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### POST Request
-![POST](Post.png)
+### Create Customer (POST)
+![Create Customer](Create-customer.png)
 
-### GET Request
-![GET](Get.png)
+### Get Customers (GET)
+![Get Customers](Get-customers.png)
 
-### PUT Request
-![PUT](PUT.png)
+### Update Customer (PUT)
+![Update Customer](Update-customer.png)
+
 
 
 ---
